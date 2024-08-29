@@ -1,16 +1,14 @@
-# cat_adoption_app
+# Paw Street — Cat Adoption App UI
 
 A new Flutter project.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This Flutter application is designed to facilitate the adoption of cats. It provides a user-friendly interface for browsing available cats, viewing their details, and potentially adopting them.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Cat Listing: Displays a list of cats with basic information like name, age, sex, and a thumbnail image.
+Cat Details: Allows users to view detailed information about a specific cat, including a more comprehensive description and additional images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![cat app](https://github.com/user-attachments/assets/c6967b54-f6e0-45e4-a1a7-3d27d6cb36c0)
